@@ -1,0 +1,29 @@
+{
+  "name": "markovjs",
+  "version": "0.0.0",
+  "description": "markov chaining of javascript closures because freedom",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janearc/markovjs"
+  },
+  "keywords": [
+    "markov",
+    "stupidity",
+    "bots",
+    "freedom",
+    "closures"
+  ],
+  "author": "Jane Arc <jane@cpan.org> (https://github.com/janearc)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/janearc/markovjs/issues"
+  },
+  "dependencies": {
+    "markoff": "*"
+  },
+  "homepage": "https://github.com/janearc/markovjs"
+}
